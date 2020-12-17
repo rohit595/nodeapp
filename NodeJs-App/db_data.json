@@ -1,0 +1,10 @@
+[{"id":{"$oid":"5fdad91efc13ae6e9c00000a"},"name":"Pastry - Carrot Muffin - Mini","stock":13,"price":1601,"description":"Coffee Cup 16oz Foam"},
+{"id":{"$oid":"5fdad91efc13ae6e9c00000b"},"name":"Tamarind Paste","stock":17,"price":567,"description":"Mushroom - Porcini, Dry"},
+{"id":{"$oid":"5fdad91efc13ae6e9c00000c"},"name":"Flour - Strong","stock":27,"price":2357,"description":"Numi - Assorted Teas"},
+{"id":{"$oid":"5fdad91efc13ae6e9c00000d"},"name":"Bread - Kimel Stick Poly","stock":6,"price":3363,"description":"Bread - White Mini Epi"},
+{"id":{"$oid":"5fdad91efc13ae6e9c00000e"},"name":"Syrup - Pancake","stock":3,"price":1290,"description":"Squeeze Bottle"},
+{"id":{"$oid":"5fdad91efc13ae6e9c00000f"},"name":"Tea Leaves - Oolong","stock":10,"price":672,"description":"Melon - Cantaloupe"},
+{"id":{"$oid":"5fdad91efc13ae6e9c000010"},"name":"Bread - Sour Batard","stock":41,"price":2134,"description":"Pie Box - Cello Window 2.5"},
+{"id":{"$oid":"5fdad91efc13ae6e9c000011"},"name":"Tart Shells - Savory, 3","stock":6,"price":2391,"description":"Pork - Bacon,back Peameal"},
+{"id":{"$oid":"5fdad91efc13ae6e9c000012"},"name":"Soup - Knorr, Veg / Beef","stock":4,"price":243,"description":"Beans - Navy, Dry"},
+{"id":{"$oid":"5fdad91efc13ae6e9c000013"},"name":"Wine - Pinot Noir Mondavi Coastal","stock":1,"price":833,"description":"Lobster - Tail, 3 - 4 Oz"}]
